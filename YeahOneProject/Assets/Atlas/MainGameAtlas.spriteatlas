@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MainGameAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: c23c14bd6eef9af4eab7604b1137411f, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b7123900b1512894abdef9a5fff9c38d, type: 3}
+  - {fileID: 21300000, guid: f18aeb41103877247a5c1e8a0ab6ba8f, type: 3}
+  - {fileID: 21300000, guid: e0a34b22b2b95884c95ca2905068b4cc, type: 3}
+  - {fileID: 21300000, guid: bc829e526073f74418168739ca39732c, type: 3}
+  - {fileID: 21300000, guid: 417afb623ecf2d841a94ad20de9c519e, type: 3}
+  - {fileID: 21300000, guid: 7b8d6043f88f3fc42bd2f20870d6d0a1, type: 3}
+  - {fileID: 21300000, guid: 3299afe3b71b8ee4eb79c6a5ba7bbbf3, type: 3}
+  - {fileID: 21300000, guid: ffa2ab44a123f964182c9ca3980e5165, type: 3}
+  - {fileID: 21300000, guid: 833527b462f97fd4192e200027a3e646, type: 3}
+  - {fileID: 21300000, guid: add83fb42fc9565409ccef8b20d724f0, type: 3}
+  - {fileID: 21300000, guid: 4a1849c4f5172b04cad61d151826caa8, type: 3}
+  - {fileID: 21300000, guid: 70779df402569a440b6828487038383a, type: 3}
+  - {fileID: 21300000, guid: b97c3d250c21a054d987b8d3b1e1fc2e, type: 3}
+  - {fileID: 21300000, guid: abad09656d5d18844b93f5ac2b08666a, type: 3}
+  - {fileID: 21300000, guid: a4934e660c74f7445bab64770aa399e0, type: 3}
+  - {fileID: 21300000, guid: 5ae81376e5121484d8bab1a07783f1b2, type: 3}
+  - {fileID: 21300000, guid: 735aebc6dc2c8fd44a3b97835b6caf1e, type: 3}
+  - {fileID: 21300000, guid: ad567ee6a0165a7419d6665f1372d5d0, type: 3}
+  - {fileID: 21300000, guid: b3bc71f73eb825c468de5453b7c2f864, type: 3}
+  - {fileID: 21300000, guid: 0f17d91aebe1b7f458132153e3ed29bb, type: 3}
+  - {fileID: 21300000, guid: df8883cadca86214399161915030be0d, type: 3}
+  - {fileID: 21300000, guid: 2f2ffbfa58784104aa787a59c3c9b764, type: 3}
+  - {fileID: 21300000, guid: 71b3c12bf38f05045bb46c96371fc141, type: 3}
+  - {fileID: 21300000, guid: 312a28cbb8f0f294ba10a2b6d6b57b57, type: 3}
+  - {fileID: 21300000, guid: 51546f5c8489ab44d826be2cf1445b5c, type: 3}
+  - {fileID: 21300000, guid: 6339fe6ce6a9f084896167981e7313d5, type: 3}
+  - {fileID: 21300000, guid: b2b6999df11cfe54fbcb7739b4f0e343, type: 3}
+  - {fileID: 21300000, guid: fcb0d2ad34d63ff4998a5a5859eec6c0, type: 3}
+  - {fileID: 21300000, guid: 66362b0e91245ae4b8dc496077f92f74, type: 3}
+  - {fileID: 21300000, guid: f6a0456ea73aabc4797621f2d04b29c0, type: 3}
+  - {fileID: 21300000, guid: a23c456e22331824e991e129a2c41289, type: 3}
+  - {fileID: 21300000, guid: 8b2b255fef18b8741bf4459d051aa6d7, type: 3}
+  - {fileID: 21300000, guid: bd4ff28fddba6c44ebb636a6a18684d3, type: 3}
+  - {fileID: 21300000, guid: 92af82df30cc0194e98afe5346f40192, type: 3}
+  - {fileID: 21300000, guid: b86930ef758ec544abfb16cc0b8ab9b7, type: 3}
+  - {fileID: 21300000, guid: 108042ef87785344d9e5fd9b03a2696b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - active-circle
+  - hand
+  - icon_pause
+  - iceSecond
+  - star
+  - support_item
+  - icon_cup
+  - icon_cup_iv
+  - button_slow
+  - item_shop_restrict
+  - button_power
+  - button_yellow_small
+  - item_shop_slow
+  - icon_check
+  - icon_cham
+  - circle_border
+  - icon mission
+  - button_stretch
+  - button_restrict
+  - frame_star
+  - item_shop_stretch
+  - icon_gianra
+  - MISSION
+  - frame_power_up
+  - BG_note
+  - skullCaution
+  - icon_thuhep
+  - skull
+  - frame_target
+  - iceFirst
+  - woodFirst
+  - woodSecond
+  - frame_score
+  - TargetMission
+  - item_shop_power
+  - icon_nhanh
+  m_Tag: MainGameAtlas
+  m_IsVariant: 0

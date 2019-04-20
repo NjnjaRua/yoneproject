@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: CharacterAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5fa6e110a1e07124fb580e117dd55c8f, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 97dd9a209ac7d684c8c6bc8c0dd56820, type: 3}
+  - {fileID: 21300000, guid: fd38c6a0f301ae246a6b4511b2965e97, type: 3}
+  - {fileID: 21300000, guid: 784a9a035dbd96e48a16778741bfc4ff, type: 3}
+  - {fileID: 21300000, guid: 7da85c04702037148903f6a477d584c4, type: 3}
+  - {fileID: 21300000, guid: ff24fdd432a4a5e458a78e28fbbce6fd, type: 3}
+  - {fileID: 21300000, guid: 7d90139603e7dd242b706d0a1ae80afe, type: 3}
+  - {fileID: 21300000, guid: ea134d27ce76cb84ca5d4d7fd5862daa, type: 3}
+  - {fileID: 21300000, guid: 557a5dc80aa4d1f49bdf832805379915, type: 3}
+  - {fileID: 21300000, guid: 1b9e05f80d3430346b2dbe69e0833bb7, type: 3}
+  - {fileID: 21300000, guid: a880dd69e69a57c4c932f14f78a24d02, type: 3}
+  - {fileID: 21300000, guid: 9b4e1989e8addef46885a5ac6a4b7a43, type: 3}
+  - {fileID: 21300000, guid: c42104e9ccd2df34096f3be2c949ea26, type: 3}
+  - {fileID: 21300000, guid: d29056da3d357a242ab533658fbb4c43, type: 3}
+  - {fileID: 21300000, guid: 53eb79da633a39b47b8696507d32670d, type: 3}
+  - {fileID: 21300000, guid: e006cbabd85be96438b6c86383fe71b9, type: 3}
+  - {fileID: 21300000, guid: 40e5cdcb0cd11984492c95a6f6fa9e7a, type: 3}
+  - {fileID: 21300000, guid: a789bb5cfe9fe6643958bbccf45e6983, type: 3}
+  - {fileID: 21300000, guid: cb5c676d4d37df745a73436255362a3d, type: 3}
+  - {fileID: 21300000, guid: 44990b6e830c0b3469b94196981a336c, type: 3}
+  - {fileID: 21300000, guid: 89a474be499345848b1097246f7bf620, type: 3}
+  - {fileID: 21300000, guid: fa7ff89f1f535314ea90a68edabe34df, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - green_theme_04
+  - red_theme_03
+  - 'purple_theme_04 '
+  - red
+  - blue
+  - purrle_theme_02
+  - purple_theme_03
+  - yellow_theme_03
+  - red_theme_02
+  - white
+  - green_theme_02
+  - yellow_theme_04
+  - white_theme_02
+  - white_theme_03
+  - red_theme_04
+  - green
+  - yellow
+  - white_theme_04
+  - green_theme_03
+  - bar
+  - yellow_theme_02
+  m_Tag: CharacterAtlas
+  m_IsVariant: 0

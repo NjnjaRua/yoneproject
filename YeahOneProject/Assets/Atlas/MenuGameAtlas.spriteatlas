@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MenuGameAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 41a7e25464619354da20dd224dbfd1a7, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b5250ba079b78c2499b597ef156672e4, type: 3}
+  - {fileID: 21300000, guid: c143dd7104ad6ab41a82969a55be6455, type: 3}
+  - {fileID: 21300000, guid: e1a4912248f2de84cbb35936c06868d2, type: 3}
+  - {fileID: 21300000, guid: 12183e521af2dd84ba411c920aca63d9, type: 3}
+  - {fileID: 21300000, guid: 2db3f3e229d124648ad9aa5564a089bd, type: 3}
+  - {fileID: 21300000, guid: 47c514f2fb8fead4da801d9a091c391d, type: 3}
+  - {fileID: 21300000, guid: a93baf33235d4dd4cb3c5edc001c32a0, type: 3}
+  - {fileID: 21300000, guid: 997ba88465ab93e4fa08143b4d8ac990, type: 3}
+  - {fileID: 21300000, guid: 70d282251a6219240ab96db8dcf05071, type: 3}
+  - {fileID: 21300000, guid: 703829a8e917d614d88100a74d7f299f, type: 3}
+  - {fileID: 21300000, guid: ef4bf199453eaf5449eda99b9efedb76, type: 3}
+  - {fileID: 21300000, guid: 2687633a6fe487e46aac7b2616557bfe, type: 3}
+  - {fileID: 21300000, guid: 2da6477fdc5961e4697cab72a7e3bbc4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_shop
+  - button_yellow_failed
+  - remove_ads
+  - icon_rates
+  - 'button _blue_small '
+  - button_pink_long
+  - button _yellow_small
+  - 'frame_point '
+  - button _pink_small
+  - icon_stories
+  - icon_setting
+  - icon_endlessmode
+  - logo
+  m_Tag: MenuGameAtlas
+  m_IsVariant: 0

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: TargetAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: cc6175ae9e803c0458740d86318826b7, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d8ac39301ceb2b44eb3f9b22f73e11ac, type: 3}
+  - {fileID: 21300000, guid: ecc9cf7197ddbe84b9511ba738ef52df, type: 3}
+  - {fileID: 21300000, guid: 3ab5f6c3e12586741b938a0b668a53b0, type: 3}
+  - {fileID: 21300000, guid: 7f77a6240e318e64baa891ae8f8efafd, type: 3}
+  - {fileID: 21300000, guid: 92d49d3fabf3c4946bba1c696437c4d9, type: 3}
+  - {fileID: 21300000, guid: 722cd56feb3932f40af84791728b7a59, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - target_khonggian
+  - target_bangtuyet
+  - target_daiduong
+  - target_samac
+  - target_damlay
+  - target_baico
+  m_Tag: TargetAtlas
+  m_IsVariant: 0

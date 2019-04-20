@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BackgroundAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b821e668a0a0eec4cb3c0c84760d2ee1, type: 3}
+    - {fileID: 102900000, guid: 6fbbaccc7f058b145a325ffc503876bd, type: 3}
+    - {fileID: 102900000, guid: 18c75480cb5d1c445806e9ddec4d30e6, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e28c421066ac9794d9cf3fcad931de9c, type: 3}
+  - {fileID: 21300000, guid: 28b439c089b72864ea01460e17147321, type: 3}
+  - {fileID: 21300000, guid: 4446ebd144075eb44a75caccf1ba397f, type: 3}
+  - {fileID: 21300000, guid: 92aa6892b64b46c42994af99151f8825, type: 3}
+  - {fileID: 21300000, guid: 47ab1863b227b1c47a96422740e7b3f4, type: 3}
+  - {fileID: 21300000, guid: 64c23873d101cd14cad803d7d711460c, type: 3}
+  - {fileID: 21300000, guid: 70b09fa3e07f6a441b08c5b375e28286, type: 3}
+  - {fileID: 21300000, guid: 39bb84b7cb51385429ca2a0b16e0dd9d, type: 3}
+  - {fileID: 21300000, guid: 2aae2259b644bde439fc8961361dc85f, type: 3}
+  - {fileID: 21300000, guid: cebeef9977210fa4593d05e9bd3b9d28, type: 3}
+  - {fileID: 21300000, guid: 2dda799a74001854a9eb073a237b5eef, type: 3}
+  - {fileID: 21300000, guid: 85e138ca1f2d5a5419686b5bdbadec05, type: 3}
+  - {fileID: 21300000, guid: 469b66ea3024cdf4e9a2f211ea752c5a, type: 3}
+  - {fileID: 21300000, guid: fe2143ac6fbeb48498051abf48bf7d78, type: 3}
+  - {fileID: 21300000, guid: a6a4816d6ff555f4ab57609164e0c1e7, type: 3}
+  - {fileID: 21300000, guid: 9bdae3cef06d6f54895b6d9c5aafa8fd, type: 3}
+  - {fileID: 21300000, guid: 07451f4fc3156fb428d1f3e703dabbfa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BG_khonggian
+  - samac_line
+  - damlay_line
+  - daiduong_line
+  - BG_menugame
+  - BG_samac
+  - bangtuyet_line
+  - BG_baico
+  - BG_daiduong
+  - BG _02
+  - baico_line
+  - BG _01
+  - khonggian_line
+  - BG _04
+  - BG_damlay
+  - BG _03
+  - BG_bangtuyet
+  m_Tag: BackgroundAtlas
+  m_IsVariant: 0

@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PopupGameAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9eefa0322fc8228418fdc87e3066c7f8, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5bf15a10f29c0454681cecf6beca9aad, type: 3}
+  - {fileID: 21300000, guid: f3d6fa90c0e57ce4c9fcd25ae177c497, type: 3}
+  - {fileID: 21300000, guid: 5650d1b0b40edb948a792cf785c6e662, type: 3}
+  - {fileID: 21300000, guid: de5548312156a8d408b01164fbc52deb, type: 3}
+  - {fileID: 21300000, guid: 18bcfc41331c0504aa4a171a3190b150, type: 3}
+  - {fileID: 21300000, guid: 5c2cd251e527f07439421b4643b63535, type: 3}
+  - {fileID: 21300000, guid: a84136717f48c844e85016c532fda024, type: 3}
+  - {fileID: 21300000, guid: 583b549107a808d4ca0ab2864ec7131d, type: 3}
+  - {fileID: 21300000, guid: 6e1f7c91138a9ab41b05489c8f30b310, type: 3}
+  - {fileID: 21300000, guid: 96a04cb1a24ab604a9b0ca548921511d, type: 3}
+  - {fileID: 21300000, guid: 6161b9c13b9d8954fac25a3ded5f5937, type: 3}
+  - {fileID: 21300000, guid: 0b2549d187620414c8651bf031c445b5, type: 3}
+  - {fileID: 21300000, guid: f8cb90b218a59f146acced305d8910e2, type: 3}
+  - {fileID: 21300000, guid: b4bfe6c26ca741f488d6fb3b24ec4521, type: 3}
+  - {fileID: 21300000, guid: 9791502302990744382b6c0a236d2092, type: 3}
+  - {fileID: 21300000, guid: 1f777c335e7b7b948a4673d924472823, type: 3}
+  - {fileID: 21300000, guid: 37f14563b42a8d74da45fba3443f6d4f, type: 3}
+  - {fileID: 21300000, guid: 960c78c39f8c0eb42aec440633aa82dd, type: 3}
+  - {fileID: 21300000, guid: 00afced3094d61e4596c269a88dd98ce, type: 3}
+  - {fileID: 21300000, guid: 72dda31465ace174c95519ca7c5a9f41, type: 3}
+  - {fileID: 21300000, guid: 46a51045cf557b946bd55a5fbde5ee8e, type: 3}
+  - {fileID: 21300000, guid: 485a9906de611c74d9974d4d02cad533, type: 3}
+  - {fileID: 21300000, guid: e2f43756287145340be9e3cfee62c0f8, type: 3}
+  - {fileID: 21300000, guid: 02d5e1c64fe896442b51431b638bd177, type: 3}
+  - {fileID: 21300000, guid: 5ec6c3c6f24d2da448bd3b6938a1318e, type: 3}
+  - {fileID: 21300000, guid: c530b0e60167b934493b1e43aa221723, type: 3}
+  - {fileID: 21300000, guid: 9a14e5f6a948f224986472f9b7a6ad24, type: 3}
+  - {fileID: 21300000, guid: f79836b754e96d848bcac93af00a4dd9, type: 3}
+  - {fileID: 21300000, guid: 1a11e3d75e4d9d9459ca2a37269ce285, type: 3}
+  - {fileID: 21300000, guid: 41ccc128689538b449507b1ef388f8d2, type: 3}
+  - {fileID: 21300000, guid: ec1c8388fa598f54399d635cabb8c353, type: 3}
+  - {fileID: 21300000, guid: c99147a8e8052034da36ec57dc989690, type: 3}
+  - {fileID: 21300000, guid: b6a5ebb85fc4b304c86dbf984f6bdcc1, type: 3}
+  - {fileID: 21300000, guid: eaaa501909691434eb6ebbf94b37f8a1, type: 3}
+  - {fileID: 21300000, guid: 41580c49aaaed224aa3788f8e55cca49, type: 3}
+  - {fileID: 21300000, guid: 4a9b637906b02be419ec0adeb3a97123, type: 3}
+  - {fileID: 21300000, guid: 31d2d089b18098b4580055e2efb1ce27, type: 3}
+  - {fileID: 21300000, guid: e0e470c9669b0544aa012a8468ad5b76, type: 3}
+  - {fileID: 21300000, guid: aa3b702a5ddba3d4ba851ef6d1227dbb, type: 3}
+  - {fileID: 21300000, guid: c007e28a8188ba7468788083839cca89, type: 3}
+  - {fileID: 21300000, guid: 1e1314ba9132b0e4b8b7b63daab70eff, type: 3}
+  - {fileID: 21300000, guid: 1e58284b7cbdd9b47acb18a63bd96f36, type: 3}
+  - {fileID: 21300000, guid: 237f32ab8fec0784191b9d5ebadfba41, type: 3}
+  - {fileID: 21300000, guid: f0cffbfbeeae3c041a393cc5db003ca8, type: 3}
+  - {fileID: 21300000, guid: ced4a80cb651f7947aaac86b017a1740, type: 3}
+  - {fileID: 21300000, guid: 120c6eccb72b7d14da22cf137aac89fe, type: 3}
+  - {fileID: 21300000, guid: 4461ebfc56d50ed45a89adf0c867d824, type: 3}
+  - {fileID: 21300000, guid: 7d9c707dc8444b345805b76fd836cfa0, type: 3}
+  - {fileID: 21300000, guid: 6af9378de27ff384eae10b472d43384e, type: 3}
+  - {fileID: 21300000, guid: 84ce069d151607541b0ff8d9fc5635e2, type: 3}
+  - {fileID: 21300000, guid: a7ae31add003d4d4a87d1009aaece24c, type: 3}
+  - {fileID: 21300000, guid: 3b02cadd9309dc24381603ea04804c7d, type: 3}
+  - {fileID: 21300000, guid: d80d2b4eb23b6014d9e91a21e1b216c6, type: 3}
+  - {fileID: 21300000, guid: 5f09a75e28fba8449829fb3de2ed3b33, type: 3}
+  - {fileID: 21300000, guid: 8b0bf76e11cfba0479bc5efd9651200c, type: 3}
+  - {fileID: 21300000, guid: 741bfa6e92882fb4a922de99b0205e49, type: 3}
+  - {fileID: 21300000, guid: e320548e72fe1b543b05c65421f79b6d, type: 3}
+  - {fileID: 21300000, guid: 4b8f32be9aa0d394aabf47743f99364e, type: 3}
+  - {fileID: 21300000, guid: e80214ee5df958d4e94fe7a46bbdf1c8, type: 3}
+  - {fileID: 21300000, guid: 4cf2e93ffa565f341810514c9b6ed057, type: 3}
+  - {fileID: 21300000, guid: 94b87f4f3dea8824f9d14b78df8f47a4, type: 3}
+  - {fileID: 21300000, guid: e5e2677fa38b8ea44bb6842aaeee0f58, type: 3}
+  - {fileID: 21300000, guid: 86e2269f97433ff4bb5dd3af7ecd36b2, type: 3}
+  - {fileID: 21300000, guid: e52e1a9f3fa26d441bab45b19ada19e0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_keogian
+  - pause
+  - time_coundount
+  - icon_nhanh
+  - icon_slow
+  - information
+  - frame_check
+  - icon_claim
+  - target_star_01
+  - info2
+  - info
+  - frame_locked
+  - target_star_iv
+  - button_continue
+  - xanh
+  - star_800
+  - frame_iv_02
+  - button_green_long
+  - icon_lock
+  - gameover
+  - frame_highscore
+  - star_400
+  - coming_soon
+  - icon_cup_iv
+  - button_pink_long
+  - icon_watchvideo
+  - button_yellow_short
+  - icon_replay
+  - bar_tittle_02
+  - deco
+  - frame_easy
+  - alien
+  - icon_sound_off
+  - frame_choose
+  - icon star_big
+  - bar_tittle_01
+  - frame_medium
+  - icon_back
+  - Default
+  - icon_facebook
+  - icon_home
+  - button_blue_short
+  - frame_popup
+  - icon_thuhep
+  - icon_sound_on
+  - icon_menu
+  - frame_hard
+  - button_yellow_long
+  - button_inv_long
+  - bar_tittle_03
+  - neon
+  - frame_lock
+  - shop
+  - icon_cup
+  - fish
+  - button_green_short
+  - icon_stage
+  - frame_iv
+  - mission
+  - button_pink_short
+  - star_1800
+  - frame_locked2
+  - tab
+  - icon_play
+  m_Tag: PopupGameAtlas
+  m_IsVariant: 0
